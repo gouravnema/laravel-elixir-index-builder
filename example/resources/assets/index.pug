@@ -1,0 +1,9 @@
+html
+  head
+    title #{title}
+    each cssFile in includePaths.css
+      link(rel='stylesheet', href=cssFile)
+  body
+    .container "this is the pug contanier"
+    each jsFile in includePaths.js
+      script(src=jsFile)

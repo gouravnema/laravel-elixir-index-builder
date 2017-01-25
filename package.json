@@ -1,0 +1,28 @@
+{
+  "name": "laravel-elixir-index-builder",
+  "version": "1.0.4",
+  "description": "A laravel elixer task to build index.html from pug template with versioned css and js",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gourav Nema <mail@gourav.info>",
+  "license": "GPL-3.0",
+  "keywords": ["laravel-elixir", "laravel", "indexbuilder"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gouravnema/laravel-elixir-index-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gouravnema/laravel-elixir-index-builder/issues"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-15",
+    "pug": "^2.0.0-beta6"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
