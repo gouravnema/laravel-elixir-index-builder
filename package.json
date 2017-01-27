@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-index-builder",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A laravel elixer task to build index.html from pug template with versioned css and js",
   "main": "./src/main.js",
   "scripts": {

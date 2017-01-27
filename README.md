@@ -10,7 +10,7 @@ Additional configs can be passed to index builder as a part of configs.
 ## Installation
 
 ```
-npm install @jdaudier/number-formatter
+npm install laravel-elixir-index-builder
 ```
 
 ## Usage
